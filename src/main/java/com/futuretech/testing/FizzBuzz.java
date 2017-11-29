@@ -1,4 +1,4 @@
-package com.techprimers.testing;
+package com.futuretech.testing;
 
 public class FizzBuzz {
 
