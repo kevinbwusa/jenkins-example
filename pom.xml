@@ -64,7 +64,7 @@
 
     <distributionManagement>
         <repository>
-            <id>myMavenRepoWrite/id>
+            <id>myMavenRepoWrite</id>
             <url>https://mymavenrepo.com/repo/Vync92tQY6iauenVoi8X/</url>
         </repository>
     </distributionManagement>
